@@ -1,0 +1,15 @@
+C:\temp\WS-VS-2022\Enum_4\Enum_4\bin\Debug\net6.0\Enum_4.exe
+C:\temp\WS-VS-2022\Enum_4\Enum_4\bin\Debug\net6.0\Enum_4.deps.json
+C:\temp\WS-VS-2022\Enum_4\Enum_4\bin\Debug\net6.0\Enum_4.runtimeconfig.json
+C:\temp\WS-VS-2022\Enum_4\Enum_4\bin\Debug\net6.0\Enum_4.dll
+C:\temp\WS-VS-2022\Enum_4\Enum_4\bin\Debug\net6.0\Enum_4.pdb
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.csproj.AssemblyReference.cache
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.AssemblyInfoInputs.cache
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.AssemblyInfo.cs
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.dll
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\refint\Enum_4.dll
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.pdb
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\Enum_4.genruntimeconfig.cache
+C:\temp\WS-VS-2022\Enum_4\Enum_4\obj\Debug\net6.0\ref\Enum_4.dll
